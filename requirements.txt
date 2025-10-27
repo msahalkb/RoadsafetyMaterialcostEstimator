@@ -1,0 +1,12 @@
+pymupdf
+pandas
+openpyxl
+requests
+numpy
+google-generativeai
+langchain-google-genai
+langchain-community
+chromadb
+pypdf
+sentence-transformers 
+streamlit
