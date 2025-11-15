@@ -9,4 +9,4 @@ langchain-community
 chromadb
 pypdf
 sentence-transformers 
-streamlitS
+streamlit
